@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/fake-shop/static/css/main.e4c19755.css",
-    "main.js": "/fake-shop/static/js/main.1f9d6608.js",
-    "static/js/787.625e8634.chunk.js": "/fake-shop/static/js/787.625e8634.chunk.js",
-    "static/media/img2.png": "/fake-shop/static/media/img2.a38c6cd81f7f45d6942f.png",
-    "static/media/img1.png": "/fake-shop/static/media/img1.de16dd2753ecbcbc784e.png",
-    "static/media/img7.png": "/fake-shop/static/media/img7.87b3768baa3890ffe930.png",
-    "static/media/img6.png": "/fake-shop/static/media/img6.f00b6cf65106332a5f95.png",
-    "static/media/img4.png": "/fake-shop/static/media/img4.557cf2e1963a9f8ec17f.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/fake-shop/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/img3.png": "/fake-shop/static/media/img3.c467e659c115c37129ab.png",
-    "static/media/fontawesome-webfont.eot": "/fake-shop/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/fake-shop/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/fake-shop/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/fake-shop/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/img5.png": "/fake-shop/static/media/img5.f3a7506ac9c77d63b6cb.png",
-    "index.html": "/fake-shop/index.html",
-    "main.e4c19755.css.map": "/fake-shop/static/css/main.e4c19755.css.map",
-    "main.1f9d6608.js.map": "/fake-shop/static/js/main.1f9d6608.js.map",
-    "787.625e8634.chunk.js.map": "/fake-shop/static/js/787.625e8634.chunk.js.map"
+    "main.css": "/Fake-Shop/static/css/main.2c6f3011.css",
+    "main.js": "/Fake-Shop/static/js/main.4318ee00.js",
+    "static/js/787.625e8634.chunk.js": "/Fake-Shop/static/js/787.625e8634.chunk.js",
+    "static/media/img2.png": "/Fake-Shop/static/media/img2.a38c6cd81f7f45d6942f.png",
+    "static/media/img1.png": "/Fake-Shop/static/media/img1.de16dd2753ecbcbc784e.png",
+    "static/media/img7.png": "/Fake-Shop/static/media/img7.87b3768baa3890ffe930.png",
+    "static/media/img6.png": "/Fake-Shop/static/media/img6.f00b6cf65106332a5f95.png",
+    "static/media/img4.png": "/Fake-Shop/static/media/img4.557cf2e1963a9f8ec17f.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Fake-Shop/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/img3.png": "/Fake-Shop/static/media/img3.c467e659c115c37129ab.png",
+    "static/media/fontawesome-webfont.eot": "/Fake-Shop/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Fake-Shop/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Fake-Shop/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Fake-Shop/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/img5.png": "/Fake-Shop/static/media/img5.f3a7506ac9c77d63b6cb.png",
+    "index.html": "/Fake-Shop/index.html",
+    "main.2c6f3011.css.map": "/Fake-Shop/static/css/main.2c6f3011.css.map",
+    "main.4318ee00.js.map": "/Fake-Shop/static/js/main.4318ee00.js.map",
+    "787.625e8634.chunk.js.map": "/Fake-Shop/static/js/787.625e8634.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4c19755.css",
-    "static/js/main.1f9d6608.js"
+    "static/css/main.2c6f3011.css",
+    "static/js/main.4318ee00.js"
   ]
 }
